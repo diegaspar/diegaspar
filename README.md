@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Diego**, a **Software Engineer / Tech Lead** with more than **8 years of experience**. Been working in the **UK, Spain and full remote.**
-- Created my own start-up [Sharify](https://play.google.com/store/apps/details?id=es.sharifyapplabs.sharify&hl=en&gl=US).
+- Created my own start-up [Sharify](https://www.instagram.com/sharifyapp/?hl=en).
 - Been working in products and startups like [Future Platforms E-commerce](https://www.futureplatforms.com/), [Monese Fintech](https://monese.com/), [Domestika E-learning](https://www.domestika.org/), Social Networks, etc.
 - 👀 I’m interested in Mobile development, being working in Android projects for more than 7 years, most of them built from scratch.
 - 🌱 I’m currently learning Kotlin Multiplatform, Compose and some iOS development.
